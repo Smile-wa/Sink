@@ -44,7 +44,7 @@
   "d1_databases": [
     {
       "binding": "DB",
-      "database_name": "sink", // Override with DEPLOY_D1_DATABASE_NAME (default: sink)
+      "database_name": "skin_db", // Override with DEPLOY_D1_DATABASE_NAME (default: sink)
       "database_id": "4a7f6719-f6e6-4324-8b46-552e43d2d1dc", // Override with DEPLOY_D1_DATABASE_ID (required for CLI deploy)
       "migrations_dir": "drizzle"
     }
